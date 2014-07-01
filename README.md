@@ -8,6 +8,6 @@ new_html
 ````
 ##todo
 
-- [] today
-- [] tomorrow
-- [] 2 days after
+- [x] today
+- [ ] tomorrow
+- [ ] 2 days after
